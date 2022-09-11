@@ -12,9 +12,10 @@ The visual™ description of the colliding files, at http://shattered.io/static/
 
 
 Установка зависимостей:
-
+```
 pip install -r requirements.txt
-
+```
 Запуск django проекта:
-
+```
 python manage.py runserver
+```
